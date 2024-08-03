@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Sorteador</title>
+
+
+</head>
+
+<body>
+    <main>
+        <div class="image-dado">
+            <img src="./assets/sort 1.png" alt="image-sorteador">
+        </div>
+
+        <div class="texto">
+            <p>Sortear um número</p>
+        </div>
+
+
+        <div class="formulario">
+            <form>
+                <div class="input-campo">
+                    <input placeholder="Entre" type="number" class="input-value-min">
+                    <input placeholder="E" type="number" class="input-value-max">
+                </div>
+            </form>
+        </div>
+
+        <div class="button-sortear">
+            <button onclick="generetorNumber()">Sortear</button>
+        </div>
+        
+    </main>
+</body>
+<script src="./script.js"></script>
+</html>
