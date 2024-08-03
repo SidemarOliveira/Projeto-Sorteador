@@ -8,4 +8,5 @@
 <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
 <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E>
 <br>
-
+Deploy: https://sorteadorclubdev.netlify.app/
+<img src=https://raw.githubusercontent.com/SidemarOliveira/Projeto-Sorteador/ca2472682684d625851cfb2448fb1a92f4485374/assets/devclub-image.png>
